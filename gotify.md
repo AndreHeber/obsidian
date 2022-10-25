@@ -8,3 +8,7 @@ curl "https://gotify.futureblog.eu/message?token=<app-token>" -F "title=test3" -
 ```bash
 wscat -c wss://gotify.futureblog.eu/stream?token=<client-token>
 ```
+- REST docs:
+```
+https://gotify.futureblog.eu/docs
+```
