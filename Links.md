@@ -2,3 +2,4 @@
 [Prompt Engineering](https://github.com/sw-yx/prompt-eng)
 [Developer Guides as Roadmaps](https://roadmap.sh/)
 [About Effective Altruism](https://archive.ph/Irsg3)
+[Self-Hosting Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
