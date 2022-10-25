@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "41258395be87dd25",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd53c92cfd28aa4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bd6c9e88a851160",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/STT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "260f12bbae38000c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-10-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b94077fae09c483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-10-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba629e28c5355eb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "41fe13bef21b5acc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "075219557182b335",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73a9c9d8a297bc8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8974fda28af74583",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "06cca954d3bd8910",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf0f719bfd16f4b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daf68469ebcc3a0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-10-25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cba988d8c6a68d40",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022-10-25.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "539208d78db895a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fdec80160f59a7c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-10-25.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "4b94077fae09c483",
+  "lastOpenFiles": [
+    "2022-10-24.md",
+    "2022-10-21.md",
+    "Work/STT.md",
+    "2022-10-17.md",
+    "2022-10-18.md",
+    "caprover JupyterLab.md",
+    "db for structs.md",
+    "Links.md",
+    "Testitest.md",
+    "Sample Project/Task 1.md"
+  ]
+}

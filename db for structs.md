@@ -1,0 +1,4 @@
+- metainfos about types (int, double, char *, etc.)
+- composition of struct
+- load_db, save_db, load(_struct), save(_struct)
+- 
