@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "375109ead2b3381a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10-25.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-10-25.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10-25.md"
+                "file": "README.md"
               }
             }
           }
@@ -165,8 +177,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4b94077fae09c483",
+  "active": "375109ead2b3381a",
   "lastOpenFiles": [
+    "2022-10-25.md",
     "2022-10-24.md",
     "2022-10-21.md",
     "Work/STT.md",
@@ -175,7 +188,6 @@
     "caprover JupyterLab.md",
     "db for structs.md",
     "Links.md",
-    "Testitest.md",
-    "Sample Project/Task 1.md"
+    "Testitest.md"
   ]
 }
