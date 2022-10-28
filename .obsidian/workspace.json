@@ -109,14 +109,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/gcc.md",
+                "file": "Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45ca6d0dc0b9aa53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/zsh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c3e61233b0c11e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -182,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/gcc.md",
+                "file": "Tools/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/gcc.md",
+                "file": "Tools/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,12 +246,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/gcc.md"
+                "file": "Tools/Linux.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -237,17 +261,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c9ab16384932df7f",
+  "active": "075219557182b335",
   "lastOpenFiles": [
-    "Tools/git.md",
-    "Tools/valgrind.md",
-    "Tools/gcc.md",
+    "Tools/zsh.md",
     "Links.md",
-    "README.md",
+    "Tools/git.md",
+    "Tools/gcc.md",
+    "2022-10-26.md",
     "gotify.md",
+    "Tools/valgrind.md",
+    "README.md",
     "Philosophy/Democracy.md",
-    "Work/STT.md",
-    "Sample Project/Task 1.md",
-    "Sample Project/Overview.md"
+    "Work/STT.md"
   ]
 }
