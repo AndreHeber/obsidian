@@ -150,9 +150,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "64631c2e1d262424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/cargo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9944e3721bd6741a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/gcc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9179300a74ac8b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/cargo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42adf36c5f25bbd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/common crates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -218,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/MacOs.md",
+                "file": "Rust/common crates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/MacOs.md",
+                "file": "Rust/common crates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/MacOs.md"
+                "file": "Rust/common crates.md"
               }
             }
           }
@@ -275,15 +323,15 @@
   },
   "active": "075219557182b335",
   "lastOpenFiles": [
+    "Rust/cargo.md",
+    "neovim.md",
+    "Tools/gcc.md",
+    "Rust/VSCode Plugin.md",
+    "Tools/MacOs.md",
     "Tools/Linux.md",
     "Tools/zsh.md",
     "Links.md",
     "Tools/git.md",
-    "Tools/gcc.md",
-    "2022-10-26.md",
-    "gotify.md",
-    "Tools/valgrind.md",
-    "README.md",
-    "Philosophy/Democracy.md"
+    "2022-10-26.md"
   ]
 }
