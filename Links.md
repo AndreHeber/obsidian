@@ -3,3 +3,4 @@
 [Developer Guides as Roadmaps](https://roadmap.sh/)
 [About Effective Altruism](https://archive.ph/Irsg3)
 [Self-Hosting Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
+[Early career advice](https://www.celinehh.com/early-career-advice)
