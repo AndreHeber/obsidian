@@ -49,7 +49,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/SIP over TLS.md",
+                "file": "Tools/tar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a89d85a7b555aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/patch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec8233d261107a58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Asterisk 3rd party libs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92e5b7ff3ea5d9b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Capture Calls.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/SIP over TLS.md",
+                "file": "Work/Capture Calls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/SIP over TLS.md",
+                "file": "Work/Capture Calls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/SIP over TLS.md"
+                "file": "Work/Capture Calls.md"
               }
             }
           }
@@ -188,15 +224,15 @@
   },
   "active": "075219557182b335",
   "lastOpenFiles": [
+    "Work/Asterisk 3rd party libs.md",
+    "README.md",
+    "Testitest.md",
+    "Tools/patch.md",
+    "Tools/tar.md",
+    "Work/SIP over TLS.md",
     "neovim.md",
     "Work/Analyse.md",
     "Work/Mediashop NL.md",
-    "Work/STT.md",
-    "Work/SIP over TLS.md",
-    "keks.md",
-    "Rust/cargo.md",
-    "Rust/Docker.md",
-    "Rust/VSCode Plugin.md",
-    "Tools/tar.md"
+    "Work/STT.md"
   ]
 }
