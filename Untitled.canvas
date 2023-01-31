@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"802518fca536c1bf","x":-226,"y":-178,"width":400,"height":400,"type":"file","file":"bpftrace.md"},
+		{"id":"8233224e83411641","x":268,"y":-179,"width":400,"height":401,"type":"file","file":"Kamailio Lua on Alpine.md"}
+	],
+	"edges":[
+		{"id":"e0bea7088811af08","fromNode":"802518fca536c1bf","fromSide":"right","toNode":"8233224e83411641","toSide":"left"}
+	]
+}

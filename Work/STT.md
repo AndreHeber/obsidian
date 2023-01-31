@@ -10,3 +10,5 @@
 7: warum
 8: hab
 9: ja
+
+shall we integrate https://deepgram.com/pricing/?
